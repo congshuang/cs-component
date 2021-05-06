@@ -12,7 +12,7 @@ const Toolbar = ({ children, inline, compact, ...restProps }) => {
 
     return (
         <div className={classes} {...restProps}>
-    {children}
+    {children} 测试4
 </div>
 )
 }
